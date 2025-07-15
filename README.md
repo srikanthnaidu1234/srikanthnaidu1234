@@ -1,7 +1,9 @@
 # Srikanth Naidu | Data Scientist & AI Engineer
 
-![Srikanth Naidu]([https://via.placeholder.com/300](https://srikanthnaiduportfolio-dnglvwxtv28zp9ryvwmcdq.streamlit.app/))
+## 🌐 Portfolio
 
+Check out my interactive portfolio:  
+**[Streamlit Portfolio](https://srikanthnaiduportfolio-dnglvwxtv28zp9ryvwmcdq.streamlit.app/)**
 ---
 
 ## 📊 About Me
