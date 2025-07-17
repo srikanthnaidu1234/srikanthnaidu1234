@@ -3,7 +3,7 @@
 ## 🌐 Portfolio
 
 Check out my interactive portfolio:  
-**[Streamlit Portfolio](https://srikanthnaiduportfolio-dnglvwxtv28zp9ryvwmcdq.streamlit.app/)**
+**[Portfolio](https://srikanthnaiduportfolio-dnglvwxtv28zp9ryvwmcdq.streamlit.app/)**
 ---
 
 ## 📊 About Me
